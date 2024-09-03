@@ -4,4 +4,6 @@
   font-family: "DM Sans", sans-serif;
   font-optical-sizing: auto;
   --bulma-body-family: font-family: "DM Sans", sans-serif;
+
+  background-color: rgb(229, 229, 237);
 }
