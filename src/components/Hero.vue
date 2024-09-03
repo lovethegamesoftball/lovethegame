@@ -5,7 +5,7 @@ import Navbar from "./Navbar.vue";
 <template>
   <div class="hero-container">
     <section class="hero">
-      <div class="hero-head"><Navbar /></div>
+      <div class="hero-head container"><Navbar /></div>
 
       <div class="hero-body">
         <div class="container has-text-centered">
