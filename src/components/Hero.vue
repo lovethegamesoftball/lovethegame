@@ -5,7 +5,7 @@ import Navbar from "./Navbar.vue";
 <template>
   <div class="hero-container">
     <section class="hero">
-      <div class="hero-head container"><Navbar /></div>
+      <div class="hero-head head-container"><Navbar /></div>
 
       <div class="hero-body">
         <div class="container has-text-centered">
@@ -25,6 +25,14 @@ import Navbar from "./Navbar.vue";
 <style scoped>
 .hero-container {
   width: 100%;
+}
+
+.head-container {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 12px;
+  width: 100%;
+  max-width: 1028px;
 }
 
 .booking-color {
