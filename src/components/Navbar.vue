@@ -4,23 +4,7 @@
   <nav class="navbar" role="navigation" aria-label="main navigation">
     <div class="navbar-brand">
       <a class="navbar-item logo" href="https://lovethegamesoftball.com">
-        <img
-          src="../assets/hitting-logo.png"
-          alt="site logo. a player swinging softball bat"
-        />
-      </a>
-
-      <a
-        role="button"
-        class="navbar-burger"
-        aria-label="menu"
-        aria-expanded="false"
-        data-target="navbarBasicExample"
-      >
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
-        <span aria-hidden="true"></span>
+        <img src="../assets/hitting-logo.png" alt="site logo. a player swinging softball bat" />
       </a>
     </div>
 
@@ -28,15 +12,6 @@
       <div class="navbar-start"></div>
 
       <div class="navbar-end">
-        <a class="navbar-item">Lessons</a>
-        <a class="navbar-item"> About </a>
-        <div class="navbar-item">
-          <div class="buttons">
-            <a class="button is-primary">
-              <strong>Book lesson</strong>
-            </a>
-          </div>
-        </div>
       </div>
     </div>
   </nav>

@@ -5,7 +5,9 @@ import Navbar from "./Navbar.vue";
 <template>
   <div class="hero-container">
     <section class="hero">
-      <div class="hero-head head-container"><Navbar /></div>
+      <div class="hero-head head-container">
+        <Navbar />
+      </div>
 
       <div class="hero-body">
         <div class="container has-text-centered">
@@ -15,6 +17,12 @@ import Navbar from "./Navbar.vue";
           <p class="subtitle has-text-dark">
             Pitching, hitting, and fielding lessons in San Diego
           </p>
+
+          <div class="buttons">
+            <a href="https://koalendar.com/u/lovethegamesoftballcoaching" class="button is-primary centered-buttons">
+              <strong>Book here!</strong>
+            </a>
+          </div>
         </div>
       </div>
     </section>
@@ -35,6 +43,11 @@ import Navbar from "./Navbar.vue";
   max-width: 1028px;
 }
 
+.centered-buttons {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .booking-color {
   color: rgb(15, 139, 141);
 }
@@ -48,9 +61,11 @@ import Navbar from "./Navbar.vue";
   background-image: url("../assets/hero-image-medium.png");
   background-repeat: no-repeat;
   background-size: cover;
+
   @media (min-width: 1000px) {
     background-image: url("../assets/hero-image-wide.png");
   }
+
   @media (max-width: 680px) {
     background-image: url("../assets/hero-image-narrow.png");
   }
