@@ -1,0 +1,9 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@1.0.2/css/bulma.min.css";
+
+:root {
+  font-family: "DM Sans", sans-serif;
+  font-optical-sizing: auto;
+  --bulma-body-family: font-family: "DM Sans", sans-serif;
+
+  background-color: rgb(229, 229, 237);
+}
