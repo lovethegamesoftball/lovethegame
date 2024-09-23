@@ -4,7 +4,7 @@
   <div class="about">
     <section class="hero">
       <div class="hero-body">
-        <p class="title has-text-centered-desktop is-size-4-mobile">
+        <p class="title has-text-centered-desktop is-size-4-mobile tagline">
           Professional softball coaching to support athletes to <br />love the
           game, work hard, communicate better,<br />and improve skills each day.
         </p>
@@ -63,6 +63,14 @@
 
 .text-about {
   font-size: 1.1rem;
+}
+
+.tagline {
+  @media (max-width: 980px) {
+    br {
+      display: none;
+    }
+  }
 }
 
 .meet {
