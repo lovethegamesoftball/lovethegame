@@ -11,7 +11,9 @@ import Navbar from "./Navbar.vue";
 
       <div class="hero-body">
         <div class="container has-text-centered">
-          <h1 class="title has-text-dark has-text-weight-bold is-size-2">
+          <h1
+            class="title has-text-dark has-text-weight-bold is-size-1 is-size-2-mobile"
+          >
             Sarah Ogle Softball Coaching
           </h1>
           <p class="subtitle has-text-dark">

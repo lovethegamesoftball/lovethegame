@@ -10,7 +10,7 @@ const currentYear = new Date().getFullYear();
 
 <style scoped>
 .footer {
-  margin-top: 128px;
+  margin-top: 64px;
   margin-bottom: 24px;
   padding: 24px;
   background-color: rgb(229, 229, 237);
