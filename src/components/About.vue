@@ -2,18 +2,23 @@
 
 <template>
   <div class="about">
-    <h2
-      class="title has-text-dark has-text-weight-bold is-size-3 has-text-centered-mobile"
-    >
+    <section class="hero">
+      <div class="hero-body">
+
+        <p class="title  has-text-centered">Professional softball coaching to support athletes to <br>love the game,
+          work hard, communicate better,<br>and improve skills each day.</p>
+
+      </div>
+    </section>
+
+
+    <h2 class="title has-text-dark has-text-weight-bold is-size-3 has-text-centered-mobile">
       Meet Coach Sarah
     </h2>
     <div class="columns">
       <div class="column is-one-third">
-        <img
-          class="portrait"
-          src="../assets/portrait.jpg"
-          alt="A photo of coach sarah standing in front of a view of la jolla"
-        />
+        <img class="portrait" src="../assets/portrait.jpg"
+          alt="A photo of coach sarah standing in front of a view of la jolla" />
       </div>
       <div class="column">
         I provide private and small group softball pitching, hitting, and
@@ -30,9 +35,10 @@
 
 <style scoped>
 .about {
-  margin-top: 24px;
-  padding: 24px;
+
+  padding: 0px 24px 24px 24px;
 }
+
 .portrait {
   @media (max-width: 780px) {
     display: block;
