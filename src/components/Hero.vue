@@ -3,9 +3,9 @@ import Navbar from "./Navbar.vue";
 </script>
 
 <template>
-  <div class="hero-container">
+  <div>
     <section class="hero">
-      <div class="hero-head head-container">
+      <div class="hero-head">
         <Navbar />
       </div>
 
@@ -19,7 +19,10 @@ import Navbar from "./Navbar.vue";
           </p>
 
           <div class="buttons">
-            <a href="https://koalendar.com/u/lovethegamesoftballcoaching" class="button is-primary centered-buttons">
+            <a
+              href="https://koalendar.com/u/lovethegamesoftballcoaching"
+              class="button is-primary centered-buttons"
+            >
               <strong>Book here!</strong>
             </a>
           </div>
@@ -31,18 +34,6 @@ import Navbar from "./Navbar.vue";
 </template>
 
 <style scoped>
-.hero-container {
-  width: 100%;
-}
-
-.head-container {
-  margin-left: auto;
-  margin-right: auto;
-  padding: 12px;
-  width: 100%;
-  max-width: 1028px;
-}
-
 .centered-buttons {
   margin-left: auto;
   margin-right: auto;
