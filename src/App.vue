@@ -18,7 +18,7 @@ import SiteFooter from "./components/SiteFooter.vue";
 .body-container {
   margin-left: auto;
   margin-right: auto;
-  padding: 12px;
+  padding: 12px 0px;
   width: 100%;
   max-width: 1028px;
 }

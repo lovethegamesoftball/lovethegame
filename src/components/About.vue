@@ -2,7 +2,9 @@
 
 <template>
   <div class="about">
-    <h2 class="title has-text-dark has-text-weight-bold is-size-3">
+    <h2
+      class="title has-text-dark has-text-weight-bold is-size-3 has-text-centered-mobile"
+    >
       Meet Coach Sarah
     </h2>
     <div class="columns">
@@ -32,9 +34,12 @@
   padding: 24px;
 }
 .portrait {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  @media (max-width: 780px) {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
   border-radius: 12px;
   max-height: 400px;
 }
