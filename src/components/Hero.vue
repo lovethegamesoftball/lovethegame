@@ -51,16 +51,16 @@ import Navbar from "./Navbar.vue";
   margin-right: auto;
   max-width: 1000px;
   background-attachment: scroll;
-  background-image: url("./hero-image-medium.png");
+  background-image: url("../hero-image-medium.png");
   background-repeat: no-repeat;
   background-size: cover;
 
   @media (min-width: 1000px) {
-    background-image: url("./hero-image-wide.png");
+    background-image: url("../hero-image-wide.png");
   }
 
   @media (max-width: 680px) {
-    background-image: url("./hero-image-narrow.png");
+    background-image: url("../hero-image-narrow.png");
   }
 }
 </style>
