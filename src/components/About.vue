@@ -22,8 +22,8 @@
         <div class="column text-about">
 
           <p>I have over five years of softball coaching experience in San Diego working with athletes ages 7-17. My
-            pitching coach, Bill Corbett, instilled this motto in me: "Always love the game". I always seek to foster a
-            love for softball in my clients and make sure they have fun while improving each day.</p>
+            pitching coach, Bill Corbett, instilled this motto in me: "Always love the game". As a coach, I seek to
+            foster a love for softball in my clients and help them have fun while improving each day.</p>
           <br>
 
           <p>My favorite memories growing up are from playing Peninsula Breakers All-stars for Coach Dad, especially
@@ -31,11 +31,12 @@
             winning the 16U Colorado Sparkler Tournament.</p>
           <br>
 
-          <p>At Carleton College, I pitched and played 2B while earning a Geology degree in 2019. As one of the team
-            captains my senior year, I helped lead our team to break the Carleton single-season win record. I am now a
-            Ph.D. Candidate in Climate Science at UCSD. It has been a joy to coach in my hometown and work with the next
-            generation of young
-            athletes!</p>
+          <p>
+            At Carleton College in Minnesota, I pitched and played 2B while earning a Geology degree. As one of the
+            team captains my senior year, I helped lead our team to break the Carleton single-season win record. I am
+            now a Ph.D. Candidate in Climate Science at UCSD. It has been a joy to coach in my hometown and work with
+            the next generation of young athletes!
+          </p>
 
 
 
