@@ -2,11 +2,17 @@
 import About from "./components/About.vue";
 import Hero from "./components/Hero.vue";
 import SiteFooter from "./components/SiteFooter.vue";
+import Services from "./components/Services.vue";
 </script>
 
 <template>
   <div class="page-container">
-    <div class="body-container"><Hero /> <About /><SiteFooter /></div>
+    <div class="body-container">
+      <Hero />
+      <About />
+      <Services />
+      <SiteFooter />
+    </div>
   </div>
 </template>
 

@@ -36,7 +36,7 @@
 
           <p>
             My favorite memories growing up are from playing Peninsula Breakers
-            All-stars for Coach Dad, especially qualifying for our first State
+            All-stars for "Coach Dad", especially qualifying for our first state
             tournament. I played travel softball for Power Surge and Renegades,
             including winning the 16U Colorado Sparkler Tournament.
           </p>
